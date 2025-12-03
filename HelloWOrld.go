@@ -13,4 +13,5 @@ func main() {
 	subdir.Array()
 	subdir.Maps()
 	subdir.Function(10)
+	subdir.Pointers()
 }
