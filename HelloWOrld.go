@@ -11,4 +11,5 @@ func main() {
 	subdir.Conditional()
 	subdir.Loops()
 	subdir.Array()
+	subdir.Maps()
 }
