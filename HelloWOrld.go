@@ -12,4 +12,5 @@ func main() {
 	subdir.Loops()
 	subdir.Array()
 	subdir.Maps()
+	subdir.Function(10)
 }
