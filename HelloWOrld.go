@@ -10,4 +10,5 @@ func main() {
     subdir.Variable()
 	subdir.Conditional()
 	subdir.Loops()
+	subdir.Array()
 }
