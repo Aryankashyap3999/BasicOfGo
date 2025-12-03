@@ -8,4 +8,5 @@ import (
 func main() {
     fmt.Println("Hello World")
     subdir.Variable()
+	subdir.Loops()
 }
