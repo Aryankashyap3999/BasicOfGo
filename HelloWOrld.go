@@ -14,4 +14,5 @@ func main() {
 	subdir.Maps()
 	subdir.Function(10)
 	subdir.Pointers()
-}
+	subdir.Structs()
+}	
